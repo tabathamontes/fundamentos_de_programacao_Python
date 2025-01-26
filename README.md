@@ -53,11 +53,3 @@ Este repositório contém explicações e exercícios dos meus estudos guiados p
 
 Este repositório foi criado para organizar e compartilhar meus estudos e exercícios realizados durante os cursos da Hashtag Treinamentos. 
 
-## Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-
-2. Navegue até a pasta desejada:
-   cd seu-repositorio/nome-da-pasta
